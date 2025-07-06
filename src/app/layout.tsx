@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Mali, Athiti, Bai_Jamjuree } from "next/font/google";
+import { Bai_Jamjuree } from "next/font/google";
 import { ConfigProvider } from "antd";
 
 import "./globals.css";
